@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asif-Anwar-Sajid
 - 👀 I’m interested in different technologies along with "ACTING"!
-- 🌱 I’m currently learning Graphics Designing, UI/UX Designing, Web Development, Android Development, Cyber Security Essentials & Advanced Data Structures and Algorithms.
+- 🌱 I’m currently learning Machine Learning, Web Development, Android Development, Cyber Security Essentials & Advanced Data Structures and Algorithms.
 - 📫 Reach me: asif.anwar.sajid@gmail.com
 - Facebook ID: https://www.facebook.com/asifanwar.sajid/
 
